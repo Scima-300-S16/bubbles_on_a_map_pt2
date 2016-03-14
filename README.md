@@ -1,0 +1,2 @@
+# bubbles_on_a_map_pt2
+This code allows you to write a .tsv file called locations. 1) edit names.tsv with the names of the locations you will be using. you can use actual locations or media platforms, devices, etc. 2) swap out the default image with an image of a map of some sort. 3) run the Processing file and with your mouse, select each location on the map in the same order that they are listed in names.tsv. when you get to the end of the list, the file will automatically close.
